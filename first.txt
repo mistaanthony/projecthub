@@ -1,3 +1,4 @@
 new text file
 with several items added
 with even more items added now
+just one more line of text to show changes
